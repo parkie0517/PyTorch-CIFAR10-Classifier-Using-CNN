@@ -1,4 +1,4 @@
-![image](https://github.com/parkie0517/PyTorch-CIFAR10-Classifier-Using-CNN/assets/80407632/6c3aa7d5-c89d-4906-a579-3c8778532783)# PyTorch-CIFAR10-Classifier-Using-CNN
+# PyTorch-CIFAR10-Classifier-Using-CNN
 CIFAR10 classifier using PyTorch. The classifier uses a CNN.
 You can downlaod the ipynb file and use Google Colab to run it.
 
